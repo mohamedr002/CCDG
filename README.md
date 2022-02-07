@@ -30,7 +30,7 @@ We used four public datasets in this study:
 1. Clone the repository 
 2. Download the fault diagnosis datsets. 
 3. Use the provided datapreprocessing codes to process the data. 
-4. Run"CCDG/reproduce_CCDG_sweep".
+4. Run ''''CCDG/reproduce_CCDG_sweep'''.
 
 ## Citation
 If you found this work useful for you, please consider citing it.
