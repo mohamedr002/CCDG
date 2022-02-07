@@ -3,7 +3,7 @@
 #### IEEE Transactions on Instrumentation and Measurement (TIM-21) (Impact Factor: 4.06).
 
 ## Abstract
-<img src="model_diagram3.png" width="1000">
+<img src="model.PNG" width="1000">
  Data-driven fault diagnosis plays a key role in stability and reliability of operations in modern industries. Recently, deep learning has achieved remarkable performance in fault classification tasks. However, in reality, the model can be deployed under highly varying working environments. As a result, the model trained under a certain working environment (i.e., certain distribution) can fail to generalize well on data from different working environments (i.e., different distributions). The naive approach of training a new model for each new working environment would be infeasible in practice. To address this issue, we propose a novel conditional contrastive domain generalization (CCDG) approach for fault diagnosis of rolling machinery, which is able to capture shareable class-information and learn environment-independent representation among data collected from different environments (also known as domains). Specifically, our CCDG attempts to maximize the mutual information of similar classes across different domains while minimizing mutual information among different classes, such that it can learn domain-independent class representation that can be transferable to new unseen domains. Our proposed approach significantly outperforms state-of-the-art methods on two real-world fault diagnosis datasets with an average improvement 7.75\% and 2.60\% respectively. The promising performance of our proposed CCDG on new unseen target domain contributes towards more practical data-driven approaches that can work under challenging real-world environments.
  
 ## Requirmenets:
