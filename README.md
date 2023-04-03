@@ -25,7 +25,8 @@ We used four public datasets in this study:
 2. To process CWRU Dataset run the notebook in "CWRU_PreProcessing"   
 3. To process Paderborn Dataset run the notebook in "KAT_PreProcessing"
 
-
+### Processed Verrsion of the data
+- [CWRU and Paderborn Datasets](https://researchdata.ntu.edu.sg/dataverse/ccdg)
 ### Reprodunce the results:
 1. Clone the repository 
 2. Download the fault diagnosis datsets. 
